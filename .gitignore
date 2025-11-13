@@ -1,0 +1,25 @@
+# Compiled binaries
+*.o
+*.exe
+*.dll
+*.so
+*.a
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.dat
+accounts.dat
+
+# Backup files
+*.bak
+*.tmp
